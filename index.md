@@ -20,19 +20,19 @@ I use this website a lot, [Youtube](https://www.youtube.com)
 
 Link to [About Me](#about-me)
 
-Link to [another][another.md]
+Link to [another](another.md)
 
 Favorite Food:
 1. Pasta
 2. Pizza
 3. Sushi
 ![pizza](https://platform.sandiego.eater.com/wp-content/uploads/sites/25/chorus/uploads/chorus_asset/file/8832725/blind.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408)
-Favorite Colors
+Favorite Colors:
 - Blue
 - Green
 - White
 
 Chores:
-[x] Laundry
-[] Washing dishes
-[] Homework
+- [x] Laundry
+- [] Washing dishes
+- [] Homework
